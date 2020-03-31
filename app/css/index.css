@@ -5,18 +5,17 @@ body {
   height: 100vh;
 }
 
+button {
+  display: flex;
+  position: absolute;
+}
+
 .office-room {
   display: block;
   position: absolute;
   background-color: #3b3b3b;
   padding-top: 3em;
-  /* height: auto !important; */
-  /* width: auto !important; */
-  /* padding-left:  */
-  /* padding-right: 25%; */
-  /* max-width: 100%; */
   max-height: 80%;
-  /* margin: 0 auto; */
 }
 
 .switch-toggled-off {
