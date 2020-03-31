@@ -1,4 +1,6 @@
-# React Boilerplate
+# React JS Toggle Lamp
+
+Staging: https://react-js-toggle-lamp.netlify.com/
 
 ## Known Issues
 - [ ] Webpack Needs Prod Mode
