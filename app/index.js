@@ -23,12 +23,12 @@ class App extends React.Component {
     return (
       <>
         <OfficeRoom className="office-room" />
-        <LampIsOff class="lamp-is-off" />
+        <LampIsOff className="lamp-is-off" />
         <SwitchToggledOff
           className="switch-toggled-off"
           onClick={() => this.handleClick()}
         />
-        <LampIsOn class="lamp-is-on" />
+        <LampIsOn className="lamp-is-on" />
         <SwitchToggledOn className="switch-toggled-on" />
       </>
     );
