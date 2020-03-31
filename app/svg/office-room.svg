@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 641 641" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 644 645" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
     <title>office-room</title>
     <desc>Created with Sketch.</desc>
     <g id="office-room" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="cube" transform="translate(31.000000, -2.000000)">
+        <g id="cube" transform="translate(31.000000, 0.000000)">
             <g id="walls" transform="translate(0.191290, 0.786133)">
                 <polygon id="Path-4" fill="#D8D8D8" points="12.8087101 485.120379 0 477.817123 0 166.609123 288.30871 0 577.619096 166.608286 577.80871 477.817123 564.952912 485.120379 564.952912 173.929402 288.80871 14.2138672 12.6650665 173.929402"></polygon>
                 <polygon id="Path-5" fill="#9F9F9F" points="12.8087101 485.120379 288.30871 325.864751 564.952912 485.120379 564.952912 173.930239 288.80871 14.2138672 12.8087101 173.930239"></polygon>

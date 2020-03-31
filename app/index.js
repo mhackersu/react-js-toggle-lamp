@@ -40,11 +40,11 @@ class App extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="grid">
         <OfficeRoom className="office-room" />
         <LampToggle lamp={this.state.showToggle} />
         <SwitchToggle switch={this.state.showToggle} />
-        <button onClick={this.handleToggleClick}>
+        <button className="scene-button" onClick={this.handleToggleClick}>
           {this.state.showToggle ? 'Toggle Lamp On' : 'Toggle Lamp Off'}
         </button>
       </div>

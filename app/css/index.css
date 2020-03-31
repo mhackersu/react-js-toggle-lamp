@@ -3,11 +3,28 @@ body {
   background: #3b3b3b;
   color: white;
   height: 100vh;
+  text-align: center;
 }
 
-button {
-  display: flex;
-  position: absolute;
+.scene-button {
+  /* grid-area: 5 / 5 / 6 / 6; */
+  background: #1aab8a;
+  color: #fff;
+  border: none;
+  position: relative;
+  height: 40px;
+  font-size: 1em;
+  padding: 0 2em;
+  cursor: pointer;
+  transition: 800ms ease all;
+  outline: none;
+  /* margin-top: 45%; */
+  width: 200px;
+}
+
+.scene-button:hover {
+  background: #fff;
+  color: #1aab8a;
 }
 
 .office-room {
@@ -15,33 +32,33 @@ button {
   position: absolute;
   background-color: #3b3b3b;
   padding-top: 3em;
-  max-height: 80%;
+  max-height: 75%;
 }
 
 .switch-toggled-off {
   display: block;
   position: absolute;
   padding-top: 3em;
-  max-height: 80%;
+  max-height: 75%;
 }
 
 .switch-toggled-on {
   display: block;
   position: absolute;
   padding-top: 3em;
-  max-height: 80%;
+  max-height: 75%;
 }
 
 .lamp-is-off {
   display: block;
   position: absolute;
   padding-top: 3em;
-  max-height: 80%;
+  max-height: 75%;
 }
 
 .lamp-is-on {
   display: block;
   position: absolute;
   padding-top: 3em;
-  max-height: 80%;
+  max-height: 75%;
 }
