@@ -1,0 +1,48 @@
+html,
+body {
+  background: #3b3b3b;
+  color: white;
+  height: 100vh;
+}
+
+.office-room {
+  display: block;
+  position: absolute;
+  background-color: #3b3b3b;
+  padding-top: 3em;
+  /* height: auto !important; */
+  /* width: auto !important; */
+  /* padding-left:  */
+  /* padding-right: 25%; */
+  /* max-width: 100%; */
+  max-height: 80%;
+  /* margin: 0 auto; */
+}
+
+.switch-toggled-off {
+  display: block;
+  position: absolute;
+  padding-top: 3em;
+  max-height: 80%;
+}
+
+.switch-toggled-on {
+  display: block;
+  position: absolute;
+  padding-top: 3em;
+  max-height: 80%;
+}
+
+.lamp-is-off {
+  display: block;
+  position: absolute;
+  padding-top: 3em;
+  max-height: 80%;
+}
+
+.lamp-is-on {
+  display: block;
+  position: absolute;
+  padding-top: 3em;
+  max-height: 80%;
+}
