@@ -1,5 +1,8 @@
 # React Boilerplate
 
+## Known Issues
+- [] Webpack Needs Prod Mode
+
 ### For Development
 
 `npm run dev`
