@@ -1,7 +1,7 @@
 # React Boilerplate
 
 ## Known Issues
-- [] Webpack Needs Prod Mode
+- [ ] Webpack Needs Prod Mode
 
 ### For Development
 
